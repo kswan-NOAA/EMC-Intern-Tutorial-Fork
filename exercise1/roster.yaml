@@ -1,9 +1,14 @@
 interns:
-- name: April Ludgate
+- name: April Ludgate                           
   email: april.ludgate@noaa.gov
   mentors:
   - Leslie Knope
   - Ron Swanson
+- name: Kenneth Swan
+  email: kenneth.swan@noaa.gov
+  mentors:
+  - Cory Martin
+  - Catherine Thomas
 employees:
 - name: Milton Waddams
   email: milton.waddams@noaa.gov
